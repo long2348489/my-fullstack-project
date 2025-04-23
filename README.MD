@@ -1,6 +1,6 @@
 **PROJECT DIAGRAM**
 
-![alt text](report-resources/Infradiagram.drawio.jpg)
+<!-- ![alt text](report-resources/Infradiagram.drawio.jpg) -->
 
 **PROJECT STRUCTURE**
 
